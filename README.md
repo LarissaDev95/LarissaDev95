@@ -1,102 +1,89 @@
+<!-- Perfil GitHub - LarissaDev95 | Red Team Style -->
+ 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000D09,100:00DF81&height=200&section=header&text=LarissaDev95&fontSize=60&fontColor=00DF81&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20%7C%20Ethical%20Hacker%20in%20progress&descAlignY=75&descColor=2CC295" />
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Larissa%20Corrêa&fontSize=60&fontColor=ff0000&animation=twinkling&desc=Full%20Stack%20%7C%20Ethical%20Hacker%20in%20progress&descSize=20&descAlignY=75&descColor=ff4444)
+ 
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00DF81&center=true&vCenter=true&width=600&lines=Desenvolvendo+sistemas+seguros...;Aprendendo+Ethical+Hacking...;Full+Stack+em+execu%C3%A7%C3%A3o...;Ciberseguran%C3%A7a+%C3%A9+o+destino+%F0%9F%94%90)](https://git.io/typing-svg)
-
-</div>
-
 ---
-
-### `> whoami`
-
-```yaml
-Nome      : Larissa Corrêa
-Handle    : @LarissaDev95
-Função    : Full Stack Developer
-Missão    : Ethical Hacker em formação 🔐
-Bolsa     : Hacker Ético 🏆
-Foco      : Cibersegurança & Pentest
-Status    : Online e em constante evolução 🟢
+ 
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-corr%C3%A4a-6238b3389)
+[![Email](https://img.shields.io/badge/Email-%23FF0000.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:larissacorrea95@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23FF0000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LarissaDev95)
+ 
+</div>
+---
+ 
+## 💀 whoami
+ 
+```bash
+$ whoami
 ```
-
+ 
+```
+Nome     : Larissa Corrêa
+Handle   : @LarissaDev95
+Função   : Full Stack Developer
+Missão   : Ethical Hacker em Formação 🎯
+Foco     : Cibersegurança & Pentest
+Status   : Online e em constante evolução 🟢
+Cidade   : Campo Grande - MS 🇧🇷
+```
+ 
 ---
-
-### `> tech --list`
-
+ 
+## 🔴 Red Team Arsenal
+ 
+### ⚡ Tecnologias Core
+ 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-%23FF0000.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FF0000.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23FF0000.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23FF0000.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23FF0000.svg?style=for-the-badge&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FF0000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23FF0000.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23FF0000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23FF0000.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+ 
 </div>
-
+### 🎯 Especialidades Hacking
+ 
+```
+Pentesting  :  Web · Active Directory · Cloud
+OSINT       :  Recon · IntelX · Maltego · Shodan
+Tools       :  Kali Linux · Metasploit · Nmap · Burp Suite
+```
+ 
 ---
-
-### `> studying --active`
-
+ 
+## 📡 GitHub Stats
+ 
 <div align="center">
-
-| 🎓 Curso | 📌 Status |
-|---|---|
+<img src="https://github-readme-stats.vercel.app/api?username=LarissaDev95&show_icons=true&theme=blood_dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d&border_color=ff0000&custom_title=Larissa+Corrêa's+GitHub+Stats" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaDev95&layout=compact&theme=blood_dark&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d&border_color=ff0000" alt="Top Languages" />
+</div>
+<div align="center">
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=LarissaDev95&theme=dark&background=0D0D0D&border=FF0000&ring=FF0000&fire=FF4444&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)
+ 
+</div>
+---
+ 
+## 🎓 studying --active
+ 
+<div align="center">
+| 🚀 Curso | 📌 Status |
+|:---|:---:|
 | Desenvolvimento de Sistemas | `[EM CURSO]` |
 | Redes de Computadores | `[EM CURSO]` |
-| Hacker Ético | `[BOLSISTA ✅]` |
+| Hacker Ético | `[CONCLUÍDO ✅]` |
 | Cibersegurança Avançada | `[PRÓXIMO NÍVEL 🔓]` |
-
+ 
 </div>
-
 ---
-
-### `> github --stats`
-
+ 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaDev95&show_icons=true&theme=merko&hide_border=true&count_private=true&title_color=00DF81&icon_color=00DF81&text_color=F1F7F6&bg_color=000D09"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaDev95&layout=compact&theme=merko&hide_border=true&title_color=00DF81&text_color=F1F7F6&bg_color=000D09"/>
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LarissaDev95&theme=merko&hide_border=true&ring=00DF81&fire=2CC295&currStreakLabel=00DF81&background=000D09&sideLabels=F1F7F6&dates=888888)
-
-</div>
-
----
-
-### `> activity --graph`
-
-<div align="center">
-
-[![Larissa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LarissaDev95&bg_color=000D09&color=00DF81&line=2CC295&point=F1F7F6&area=true&hide_border=true)](https://github.com/LarissaDev95)
-
-</div>
-
----
-
-### `> connect --social`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-LarissaDev95-000D09?style=for-the-badge&logo=github&logoColor=00DF81)](https://github.com/LarissaDev95)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DF81,100:000D09&height=100&section=footer&text=Keep+hacking+%F0%9F%94%90&fontSize=20&fontColor=2CC295&animation=twinkling"/>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LarissaDev95.LarissaDev95&color=00DF81&labelColor=000D09)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+ 
 </div>
