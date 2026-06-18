@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Larissa%20Corr%C3%AAa&fontSize=60&fontColor=ff0000&animation=twinkling&desc=Full%20Stack%20%7C%20Ethical%20Hacker%20in%20progress&descSize=20&descAlignY=75&descColor=ff4444)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0,0,0,180,0&height=200&section=header&text=Larissa%20Corr%C3%AAa&fontSize=60&fontColor=ff0000&animation=twinkling&desc=Full%20Stack%20%7C%20Ethical%20Hacker%20in%20progress&descSize=20&descAlignY=75&descColor=ff4444)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-corr%C3%A4a-6238b3389) [![Email](https://img.shields.io/badge/Email-%23FF0000.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:larissacorrea95@outlook.com) [![GitHub](https://img.shields.io/badge/GitHub-%23FF0000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LarissaDev95)
  
@@ -40,11 +40,11 @@ Tools       :  Kali Linux · Metasploit · Nmap · Burp Suite
  
 ## 📡 GitHub Stats
  
-![Larissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarissaDev95&show_icons=true&theme=blood_dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d&border_color=ff0000&custom_title=Larissa+Corr%C3%AAa's+GitHub+Stats)
+![Larissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarissaDev95&show_icons=true&theme=blood_dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000&custom_title=Larissa+Stats&hide_border=false&count_private=true)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaDev95&layout=compact&theme=blood_dark&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d&border_color=ff0000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaDev95&layout=compact&theme=blood_dark&title_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000)
  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=LarissaDev95&theme=dark&background=0D0D0D&border=FF0000&ring=FF0000&fire=FF4444&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)
+![Streak](https://streak-stats.demolab.com?user=LarissaDev95&theme=dark&background=0D0D0D&border=FF0000&ring=FF0000&fire=FF4444&currStreakLabel=FF0000&sideLabels=FF0000&dates=ffffff&stroke=FF0000)
  
 ---
  
@@ -59,4 +59,4 @@ Cibersegurança Avançada | `PRÓXIMO NÍVEL 🔓`
  
 ---
  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=180,0,0,255,0&height=120&section=footer&fontColor=ff0000)
